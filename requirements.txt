@@ -1,0 +1,4 @@
+streamlit
+pandas
+scikit-learn
+pickle5 # if you used pickle5 for pickling
